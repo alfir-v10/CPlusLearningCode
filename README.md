@@ -9,9 +9,8 @@ My training tasks on C/С++
   - IfElse/
   - while/
 
-Задачи по С взяты из курса "Основы программирования на C. Задачи."
-Ссылка на курс: https://stepik.org/course/3078/info
-Текущий прогресс [тут](https://stepik.org/cert/346255)
+Задачи по С взяты из курса ["Основы программирования на C. Задачи."](https://stepik.org/course/3078/info)
+Текущий прогресс [тут](https://stepik.org/cert/346255).
 К курсу относятся следующие папки:
   - CArrays
   - CBranches
