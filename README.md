@@ -11,7 +11,7 @@ My training tasks on C/С++
 
 Задачи по С взяты из курса "Основы программирования на C. Задачи."
 Ссылка на курс: https://stepik.org/course/3078/info
-Текущий прогресс: https://stepik.org/cert/346255
+Текущий прогресс [тут](https://stepik.org/cert/346255)
 К курсу относятся следующие папки:
   - CArrays
   - CBranches
