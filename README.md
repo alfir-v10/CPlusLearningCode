@@ -3,9 +3,9 @@ My training tasks on C/С++
 
 Задачи по С++ взяты из курса [Введение в программирование (C++)](https://stepik.org/course/363/syllabus) (Академия Яндекса и НИУ ВШЭ)
 К курсу относятся следующие папки:
-  - SimpleDigits/
-  - IfElse/
-  - while/
+  - [SimpleDigits](https://github.com/alfir-v10/CPlusLearningCode/tree/main/IfElse)
+  - [IfElse](https://github.com/alfir-v10/CPlusLearningCode/tree/main/SimpleDigits)
+  - [while](https://github.com/alfir-v10/CPlusLearningCode/tree/main/while)
 
 Задачи по С взяты из курса ["Основы программирования на C. Задачи."](https://stepik.org/course/3078/info)
 Текущий прогресс [тут](https://stepik.org/cert/346255).
